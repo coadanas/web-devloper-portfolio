@@ -1,0 +1,113 @@
+@media (max-width: 767px) {
+    .nav {
+        justify-content: center;
+        overflow: hidden;
+    }
+    .web-title a {
+        font-size: 1rem;
+    }
+
+    .hero {
+        height: 800px;
+        overflow: hidden;
+    }
+    .sub-hero {
+        flex-direction: column;
+    }
+    .sub-hero .hero-des {
+        width: 300px;
+    }
+    .sub-hero .hero-des h2 {
+        font-size: 2rem;
+    }
+    .contact-btn {
+        padding: 8px 15px;
+        border-radius: 5px;
+    }
+    .contact-btn a {
+        font-size: 0.7rem;
+    }
+    .hero-des-icons span {
+        width: 40px;
+        height: 40px;
+        margin: 10px;
+    }
+
+    .sub-hero .hero-des .hero-name {
+        color: #5352ed;
+    }
+    .sub-hero .hero-img {
+        width: 400px;
+        height: 400px;
+    }
+    .sub-hero .hero-img img {
+        width: 300px;
+    }
+
+    .about {
+        height: 700px;
+        overflow: hidden;
+    }
+    .section-title {
+        width: 100px;
+        font-size: 1.5rem;
+    }
+    .about-sub {
+        flex-direction: column;
+        height: 600px;
+    }
+    .about-img {
+        height: 500px;
+        width: 400px;
+    }
+    .about-img img {
+        width: 200px;
+    }
+    .about-des {
+        height: 500px;
+        width: 300px;
+    }
+    .about-des h2 {
+        font-size: 1.5rem;
+    }
+    .about-des p {
+        font-size: 0.8rem;
+    }
+
+    .skills {
+        height: 700px;
+        overflow: hidden;
+    }
+    .skills-sub {
+        height: 600px;
+        flex-direction: column;
+    }
+    .skills-icons {
+        height: 300px;
+        width: 300px;
+    }
+    .skills-icons span {
+        font-size: 1.5rem;
+    }
+    .skills-des {
+        height: 500px;
+        width: 300px;
+    }
+    .skills-des h2 {
+        font-size: 1.5rem;
+    }
+    .skills-des p {
+        margin: 0px;
+        padding: 0px;
+        font-size: 0.8rem;
+    }
+
+    .projects {
+    padding: 2rem 0rem 0rem 0rem;
+        height: 1100px;
+    }
+    .projects-sub {
+        height: 1000px;
+        flex-wrap: wrap;
+    }
+}
