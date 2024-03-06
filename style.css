@@ -166,7 +166,7 @@ header {
     padding: 5rem 0rem 5rem 0rem;
 }
 .projects-sub {
-    height: 300px;
+    height: 500px;
     flex-wrap: wrap;
 }
 .projects-sub a {
